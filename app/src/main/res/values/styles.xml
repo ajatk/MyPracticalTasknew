@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="progressbar">
+        <item name="colorAccent">@color/black</item> <!-- Whatever color you want-->
+    </style>
+</resources>
